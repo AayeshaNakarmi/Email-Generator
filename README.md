@@ -1,2 +1,2 @@
-# Email-Generator
-Generates email based on user inputs
+# Email_generator
+Generates email
